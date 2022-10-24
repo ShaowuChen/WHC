@@ -20,13 +20,13 @@ python3.6.12 ; Torch 1.3.1.
 ```
 
 
-# 3. Log files and CKPT 
+# 3. Log files and CKPT:
 Find log files and checkpoints in 
 [WHC Google Drive](https://drive.google.com/drive/folders/1HRo16Ddfic8OQ1WGb_Dc2o6pJ6zywXpv?usp=sharing).
 
 Find pre-trained CIFAR-10 parameters (unpruned) in [FPGM Google Drive](https://drive.google.com/drive/u/0/folders/1gbTTykmn6gk4IEug3jwDKFA5gDaNjowu). 
 
-Find pre-trained ImageNet parameters (unpruned) in 
+Find Pytorch official pre-trained ImageNet parameters (unpruned) in 
  [resnet18](https://download.pytorch.org/models/resnet18-5c106cde.pth),
  [resnet34](https://download.pytorch.org/models/resnet34-333f7ec4.pth),
  [resnet50](https://download.pytorch.org/models/resnet50-19c8e357.pth),
