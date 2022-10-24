@@ -5,22 +5,21 @@ The implementaion is based on [FPGM](https://github.com/he-y/filter-pruning-geom
 
 
 
-***
+
 # 1. Environment:
 python3.6.12 ; Torch 1.3.1.
-***
+
 # 2. Description for files:
 
 ```
---
   ├── pruning_cifar10_orig.py: Code for CIFAR-10
   ├── pruning_imagenet.py: Code for ImageN
-  ├── run.sh: Script demo for runing CIFAR-10
+  ├── run.sh: Script demo to run the code
   ├── utils.py 
   ├── models
 ```
 
-***
+
 # 3. Log files and CKPT 
 Find log files and checkpoints in 
 [WHC Google Drive](https://drive.google.com/drive/folders/1HRo16Ddfic8OQ1WGb_Dc2o6pJ6zywXpv?usp=sharing).
