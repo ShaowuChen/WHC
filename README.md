@@ -27,8 +27,8 @@ Find log files and checkpoints in
 
 Find original CIFAR-10 parameters (unpruned) in [FPGM Google Drive](https://drive.google.com/drive/u/0/folders/1gbTTykmn6gk4IEug3jwDKFA5gDaNjowu). 
 
-Find original ImageNet parameters (unpruned) in [Pytorch Official Zoo](https://drive.google.com/drive/u/0/folders/1gbTTykmn6gk4IEug3jwDKFA5gDaNjowu). 
- [resnet18](https://download.pytorch.org/models/resnet18-5c106cde.pth],
- [resnet34](https://download.pytorch.org/models/resnet34-333f7ec4.pth],
- [resnet50](https://download.pytorch.org/models/resnet50-19c8e357.pth],
- [resnet101](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth].
+Find original ImageNet parameters (unpruned) in . 
+ [resnet18](https://download.pytorch.org/models/resnet18-5c106cde.pth),
+ [resnet34](https://download.pytorch.org/models/resnet34-333f7ec4.pth),
+ [resnet50](https://download.pytorch.org/models/resnet50-19c8e357.pth),
+ [resnet101](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth).
