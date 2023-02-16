@@ -1,8 +1,18 @@
 # WHC: Weighted Hybrid Criterion for Filter Pruning on Convolutional Neural Networks
-(submitted to ICASSP 2023)
+(ICASSP 2023)
+
+
+Please cite our work as follows:
+```
+@inproceedings{WHC,
+  author    = {Shaowu Chen and Weize Sun and Lei Huang},
+  title     = {WHC: Weighted Hybrid Criterion for Filter Pruning on Convolutional Neural Networks},
+  booktitle = {ICASSP},
+  year      = {2023}
+}
+```
 
 The implementaion is based on [FPGM](https://github.com/he-y/filter-pruning-geometric-median). Thanks to YangHe for his help and contribution. 
-
 
 
 
